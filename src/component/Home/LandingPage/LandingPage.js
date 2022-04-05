@@ -6,10 +6,10 @@ const LandingPage = () => {
       <div className=" p-5 text-white order-2 md:order-1 md:w-[50%]">
         <h1 className=" text-4xl font-bold mb-2 md:mb-6">
           {" "}
-          Avocado-and-Egg-Toast
+          Rolex Watch
         </h1>
         <p className="text-lg">
-        The combination of fiber, protein, and healthy fats is filling, satisfying, and provides lots of nutrition to start your day. Avocados are a great source of potassium, fiber, heart-healthy monounsaturated fat, and folate, while eggs provide protein and micronutrients like choline, B vitamins, and vitamin D.
+        Rolex's story began when founder Hans Wilsdorf created the first waterproof wristwatch  the Oyster  and developed into a range of timepieces that have become icons of watchmaking. Discover Rolex watches on the wrists of pioneers, artists, athletes and visionaries and journey to the very highest summits and the deepest part of the oceans.
         </p>
         <button className=" bg-slate-500 p-2 mt-4 rounded hover:bg-sky-400">Live Demo</button>
       </div>
